@@ -459,7 +459,7 @@ This project demonstrates how to:
 
 ## Author
 
-**Raj Rastogi**
+**Raj Pandey**
 
 B.Tech in Electronics and Communication Engineering
 
