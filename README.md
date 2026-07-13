@@ -461,12 +461,3 @@ This project demonstrates how to:
 
 **Raj Pandey**
 
-B.Tech in Electronics and Communication Engineering
-
-**Areas of Interest**
-
-- RTL Design
-- Functional Verification
-- Digital IC Design
-- SystemVerilog & UVM
-- VLSI Design and Verification
